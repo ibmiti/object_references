@@ -1,7 +1,7 @@
 // reference type example 
 var obj1 = { value : 10 };
 
-// this variable exists as an reference for box1 -- and nothing more
+// this variable exists as an reference for obj1
 var refobj1 = obj1;
 
 // truth test :::
